@@ -1,1 +1,5 @@
+The following jar file contains a basic library management application using GUI swing library of java EE .
+
+The last stage though remains which is update the entries in summary view .
+
 
